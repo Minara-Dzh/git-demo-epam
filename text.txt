@@ -1,3 +1,7 @@
 How do you define a Git commit?
 Read the question below and select all correct answers.
-Then, click "Submit."
+
+
+The file .git/refs/heads/master contains the following text: 
+"5c2fdbaff3b0b9b5eae3c48047aafcee2201e5c4". What does it mean?
+
